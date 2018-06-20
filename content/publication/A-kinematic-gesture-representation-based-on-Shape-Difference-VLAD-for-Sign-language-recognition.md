@@ -2,7 +2,7 @@
 title = "A kinematic gesture representation based on Shape Difference VLAD for Sign language recognition"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-05-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jefferson Rodríguez", "Fabio Martínez"]
@@ -30,7 +30,7 @@ abstract_short = "A short version of the abstract."
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
