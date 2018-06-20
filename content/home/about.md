@@ -18,9 +18,8 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Systems Engineer and Computer Science"
+  course = "[Systems Engineer and Computer Science](https://github.com/JotaRodriguez94/academic-kickstart/edit/master/content/home/about.md)"
   institution = "Universidad Industrial de Santander"
-  year = 2018
-[link](www.google.com)  
+  year = 2018 
 +++
 # About me
