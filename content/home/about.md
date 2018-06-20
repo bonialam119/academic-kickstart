@@ -27,12 +27,6 @@ weight = 5
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018
-
-[Online Courses]
-  courses = [
-    {name = "Introduction to computer vision: application development with OpenCV by Universidad Carlos III de Madrid", url = "https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59"},
-     name = "Sparse Representations in Image Processing: From Theory to Practice by Israel Institute of Technology.", url = "https://courses.edx.org/certificates/2be0b82719ff40ec945831c00f7aec59"}
-  ]
 +++
 
 # Biography
