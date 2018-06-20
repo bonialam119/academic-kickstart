@@ -13,6 +13,7 @@ weight = 5
     "Artificial Intelligence",
     "Machine Learning",
     "Gesture Recognition",
+    "Gesture Recognition",
     "Image and video processing"
   ]
 
