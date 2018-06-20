@@ -27,6 +27,8 @@ weight = 5
   institution = "Universidad Industrial de Santander"
   year = 2018
   
+
++++
 [interests]
   interests = [
     "Artificial Intelligence",
@@ -34,7 +36,5 @@ weight = 5
     "Gesture Recognition",
     "Image and video processing"
   ]  
-+++
-
 # Biography
  
