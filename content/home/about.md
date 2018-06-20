@@ -22,3 +22,5 @@ weight = 5
   year = 2018 
 +++
 # About me
+I'm from Bucaramanga in Colombia. Passionate about computer vision, technology, travel, football and cycling. 
+Currently, I'm a Master's student in Computer Science and I work in the Biomedical Engineering Research Group (GIIB).
