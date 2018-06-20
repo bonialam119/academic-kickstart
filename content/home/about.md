@@ -17,14 +17,14 @@ weight = 5
 #  ]
 
 # List your qualifications (such as academic degrees).
-# [[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
+[[education.courses]]
+  course = "Systems Engineer and Computer Science"
+  institution = "Universidad Industrial de Santander"
+  year = 2018
 
 [[education.courses]]
-  course = "Introduction to computer vision: application development with OpenCV by Universidad Carlos III de Madrid."
-  certificate = "https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59"
+  course = "Introduction to computer vision: application development with OpenCV by Universidad Carlos III de Madrid. 
+  (https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)"
   institution = "edx, Inc. (MOOC platform)"
   year = 2018
   
