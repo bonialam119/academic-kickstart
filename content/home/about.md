@@ -27,10 +27,6 @@ weight = 2
   institution = "Universidad Industrial de Santander"
   year = 2018
   
-[[education.courses]]
-  course = "Systems Engineer and Computer Science"
-  institution = "Universidad Industrial de Santander"
-  year = 2018
 +++
 # Biography
  
