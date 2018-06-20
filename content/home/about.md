@@ -8,14 +8,14 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-# [interests]
-#  interests = [
-#    "Artificial Intelligence",
-#    "Machine Learning",
-#    "Gesture Recognition",
-#    "Image and video processing"
-#  ]
-
+[interests]
+  interests = [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Gesture Recognition", 
+    "Image and video processing"
+]
+Courses
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Systems Engineer and Computer Science"
