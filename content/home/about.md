@@ -21,12 +21,9 @@ weight = 5
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018
-
-[[education.courses]]
-  course = "Introduction to computer vision: application development with OpenCV by Universidad Carlos III de Madrid"
-  institution = "edx, Inc. (MOOC platform)"
-  year = 2018
   
 +++
 # Biography
  
+url_custom = [{name = "Custom Link 1", url = "http://example.org"},
+              {name = "Custom Link 2", url = "http://example.org"}]
