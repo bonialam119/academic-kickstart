@@ -15,9 +15,9 @@ weight = 60
 +++
 ## Online Courses
 {{% alert note %}}
-edx, Inc. (MOOC platform)
+**edx, Inc. (MOOC platform)**
 {{% /alert %}}
-* Introduction to computer vision: application development with OpenCV by *Universidad Carlos III de Madrid*.
+1.**Introduction to computer vision: application development with OpenCV** by *Universidad Carlos III de Madrid*.
 [Certification](https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)  
-* Sparse Representations in Image Processing: From Theory to Practice by *Israel Institute of Technology*.
+2.**Sparse Representations in Image Processing: From Theory to Practice** by *Israel Institute of Technology*.
 [Certification](https://courses.edx.org/certificates/2be0b82719ff40ec945831c00f7aec59)  
