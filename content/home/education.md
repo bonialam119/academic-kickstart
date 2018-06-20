@@ -15,5 +15,6 @@ weight = 60
 +++
 ## Online Courses
 {{% alert note %}}
-Online Courses
+edx, Inc. (MOOC platform)
 {{% /alert %}}
+1. [Introduction to computer vision: application development with OpenCV by Universidad Carlos III de Madrid.](https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)
