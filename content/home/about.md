@@ -15,7 +15,6 @@ weight = 5
     "Gesture Recognition", 
     "Image and video processing"
 ]
-Courses
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Systems Engineer and Computer Science"
