@@ -27,14 +27,11 @@ weight = 5
   institution = "Universidad Industrial de Santander"
   year = 2018
   
-
+[[education.courses]]
+  course = "Systems Engineer and Computer Science"
+  course = "Systems Engineer and Computer Science"
+  institution = "Universidad Industrial de Santander"
+  year = 2018
 +++
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Gesture Recognition",
-    "Image and video processing"
-  ]  
 # Biography
  
