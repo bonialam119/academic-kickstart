@@ -12,6 +12,8 @@ subtitle = "Complementary education"
 
 # Order that this section will appear in.
 weight = 60
-[[education.courses]]
 +++
-[[education.courses]]
+## Online Courses
+{{% alert note %}}
+Online Courses
+{{% /alert %}}
