@@ -19,7 +19,7 @@ authors = ["Jefferson Rodríguez", "Fabio Martínez"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on computer vision and graphics. Poland*"
+publication = "In *International Conference on computer vision and graphics, Poland.*"
 publication_short = "In *ICCVG*"
 
 # Abstract and optional shortened version.
