@@ -19,7 +19,7 @@ authors = ["Jefferson Rodríguez", "Fabio Martínez"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Colombian Conference on Computing*"
+publication = "In *Colombian Conference on Computing, Colombia*"
 publication_short = "In *13CCC*"
 
 # Abstract and optional shortened version.
