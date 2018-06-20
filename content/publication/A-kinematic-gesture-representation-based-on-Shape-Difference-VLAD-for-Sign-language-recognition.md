@@ -23,7 +23,7 @@ publication = "In *International Conference on computer vision and graphics*"
 publication_short = "In *ICCVG*"
 
 # Abstract and optional shortened version.
-abstract = "Automatic Sign language recognition (SLR) is a fundamental task to help with inclusion of deaf community in society, facilitating, noways,  many conventional multimedia interactions. In this work is proposed a novel approach to represent gestures in SLR as a shape difference-VLAD mid level coding of kinematic primitives, captured along videos. This representation capture local salient motions together with regional dominant patterns developed by articulators along utterances. Also, the special VLAD representation allows to quantify local motion pattern but also capture shape of motion descriptors, that achieved a proper regional gesture characterization. The proposed approach achieved an average accuracy of $85,45$\%  in a corpus data of 64 sign words captured in 3200 videos. Additionally, for Boston sign dataset the proposed approach achieve competitive results with $82\%$ of accuracy in average."
+abstract = "Automatic Sign language recognition (SLR) is a fundamental task to help with inclusion of deaf community in society, facilitating, noways,  many conventional multimedia interactions. In this work is proposed a novel approach to represent gestures in SLR as a shape difference-VLAD mid level coding of kinematic primitives, captured along videos. This representation capture local salient motions together with regional dominant patterns developed by articulators along utterances. Also, the special VLAD representation allows to quantify local motion pattern but also capture shape of motion descriptors, that achieved a proper regional gesture characterization. The proposed approach achieved an average accuracy of 85.45%  in a corpus data of 64 sign words captured in 3200 videos. Additionally, for Boston sign dataset the proposed approach achieve competitive results with 82% of accuracy in average."
 
 abstract_short = "A short version of the abstract."
 
@@ -62,8 +62,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption 😄"
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption 😄"
 
 +++
