@@ -24,6 +24,3 @@ weight = 5
   
 +++
 # Biography
- 
-url_custom = [{name = "Custom Link 1", url = "http://example.org"},
-              {name = "Custom Link 2", url = "http://example.org"}]
