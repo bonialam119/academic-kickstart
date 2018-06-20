@@ -13,7 +13,6 @@ weight = 5
     "Artificial Intelligence",
     "Machine Learning",
     "Gesture Recognition",
-    "Gesture Recognition",
     "Image and video processing"
   ]
 
@@ -27,6 +26,14 @@ weight = 5
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018
+  
+[courses]
+  courses = [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Gesture Recognition",
+    "Image and video processing"
+  ]  
 +++
 
 # Biography
