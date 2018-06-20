@@ -5,16 +5,9 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 2
+weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Gesture Recognition",
-    "Image and video processing"
-  ]
+
 
 # List your qualifications (such as academic degrees).
 # [[education.courses]]
