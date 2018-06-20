@@ -2,7 +2,7 @@
 title = "Towards on-line sign language recognition using cumulative SD-VLAD descriptors"
 
 # Date first published.
-date = "2018-06-14"
+date = "2018-06-14, **Accepted**"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jefferson Rodríguez", "Fabio Martínez"]
@@ -19,7 +19,7 @@ authors = ["Jefferson Rodríguez", "Fabio Martínez"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Colombian Conference on Computing, Colombia.* **Accepted**"
+publication = "In *Colombian Conference on Computing, Colombia.*"
 publication_short = "In *13CCC*"
 
 # Abstract and optional shortened version.
