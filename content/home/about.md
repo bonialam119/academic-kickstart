@@ -27,8 +27,8 @@ weight = 5
   institution = "Universidad Industrial de Santander"
   year = 2018
   
-[courses]
-  courses = [
+[interests]
+  interests = [
     "Artificial Intelligence",
     "Machine Learning",
     "Gesture Recognition",
