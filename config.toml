@@ -256,30 +256,30 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+[[menu.main]]
+  name = "Education"
+  url = "#education"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
   
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 4
-
+  
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 5
 
 [[menu.main]]
-  name = "Education"
-  url = "#education"
+  name = "Posts"
+  url = "#posts"
   weight = 6
 
 [[menu.main]]
