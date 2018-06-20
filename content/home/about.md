@@ -21,6 +21,6 @@ weight = 5
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018
-  
+[link](www.google.com)  
 +++
-# Biography
+# About me
