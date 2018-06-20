@@ -11,7 +11,7 @@ title = "Education"
 subtitle = "Complementary education"
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 +++
 ## Online Courses
 {{% alert note %}}
