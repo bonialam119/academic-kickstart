@@ -29,4 +29,6 @@ weight = 3
 [Certification](https://www.coursera.org/account/accomplishments/verify/RPHWSV2BYGAZ)  
 2. **Object detection** by *Universitat Autònoma de Barcelona*.
 [Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)  
+3. **Neural Networks and Deep Learning** by *deeplearning.ai*.
+[Certification](https://www.coursera.org/account/accomplishments/certificate/CFEQR4264ASY)  
 
