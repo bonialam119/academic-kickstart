@@ -23,19 +23,7 @@ publication = "In *Colombian Conference on Computing, Colombia.*"
 publication_short = "In *13CCC*, **Accepted** "
 
 # Abstract and optional shortened version.
-abstract = "On-line prediction of sign language gestures is nowadays a fundamental task to help and support
-multimedia interpretation of deaf communities. This work presents a novel approach to recover partial sign
-language gestures by cumulative coding different intervals of the video sequences. The method starts by
-computing volumetric patches that contain kinematic information from different appearance flow
-primitives. Then, several sequential intervals are learned to carry out the task of partial recognition. For
-each new video, a cumulative shape difference (SD)-VLAD representation is obtained at different intervals
-of the video. Each SD-VLAD descriptor recovers mean and variance motion information as signature of
-the computed gesture. Along the video, each partial representation is mapped to a support vector machine
-model to obtain a gesture recognition, being usable in on-line scenarios. The proposed approach was
-evaluated in a public dataset with 64 different classes, recorded in 3200 samples. This approach is able to
-recognize sign gestures using only 20% of the sequence with an average accuracy of 53.8% and with 60%
-of information, the 80% of accuracy was achieved. For complete sequences the proposed approach
-achieves 85% on average."
+abstract="On-line prediction of sign language gestures is nowadays a fundamental task to help and support multimedia interpretation of deaf communities. This work presents a novel approach to recover partial sign language gestures by cumulative coding different intervals of the video sequences. The method starts by computing volumetric patches that contain kinematic information from different appearance flow primitives. Then, several sequential intervals are learned to carry out the task of partial recognition. For each new video, a cumulative shape difference (SD)-VLAD representation is obtained at different intervals of the video. Each SD-VLAD descriptor recovers mean and variance motion information as signature of the computed gesture. Along the video, each partial representation is mapped to a support vector machine model to obtain a gesture recognition, being usable in on-line scenarios. The proposed approach was evaluated in a public dataset with 64 different classes, recorded in 3200 samples. This approach is able to recognize sign gestures using only 20% of the sequence with an average accuracy of 53.8% and with 60% of information, the 80% of accuracy was achieved. For complete sequences the proposed approach achieves 85% on average."
 
 abstract_short = "A short version of the abstract."
 
