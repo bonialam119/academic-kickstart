@@ -2,7 +2,7 @@
 title = "Towards on-line sign language recognition using cumulative SD-VLAD descriptors"
 
 # Date first published.
-date = "2018-09-26"
+date = "2018-06-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jefferson Rodríguez", "Fabio Martínez"]
