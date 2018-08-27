@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Rodriguez-Martinez-ICCVG-2018.pdf"
+url_pdf = "https://github.com/JotaRodriguez94/academic-kickstart/blob/master/pdf/Rodriguez-Martinez-ICCVG-2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
