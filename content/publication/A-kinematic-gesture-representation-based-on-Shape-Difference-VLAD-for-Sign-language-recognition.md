@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/Rodriguez-Martinez-ICCVG-2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
