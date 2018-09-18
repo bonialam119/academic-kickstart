@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Continuous recognition of short expressions in sign language recorded in video sequences."
+title = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas registrado en secuencias de vídeo."
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -27,13 +27,41 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
+La comunidad de sordomudos y personas con alguna limitación auditiva se estima en
+360 millones de personas a nivel mundial, según el reporte oficial de la organización
+mundial de la salud (OMS). En Colombia, para el 2016 se reportó una comunidad de
+596.814 personas con alguna limitación auditiva. Esta comunidad ha logrado
+establecer un lenguaje estructurado que se basa principalmente en movimientos
+articulares de los miembros superiores junto con expresiones faciales, cuyo desarrollo
+ha permitido la interacción y comunicación entre sus integrantes. Sin embargo, la
+interacción con otras comunidades persiste hoy en día como un problema de inclusión
+social que limita su integración en diversos escenarios.
+A pesar de los avances en reconocimiento de gestos y caracterización de movimientos
+articulados, existe un número limitado de herramientas tecnológicas que permiten la
+interpretación de estos lenguajes para la comunicación eficiente entre comunidades o el
+fácil acceso a programas de enseñanza. Además, la caracterización automática de
+gestos enfrenta grandes desafíos en cuanto a la variabilidad de los movimientos y
+sentencias gramaticales desarrolladas. Tal factor es inter e intrapersonal por la
+variabilidad natural de los gestos humanos y diversos factores externos, por ejemplo:
+los ambientes donde se desarrollan las señas y las características culturales y
+regionales de cada comunidad. En este sentido, las actuales propuestas para el
+reconocimiento de gestos en el lenguaje de señas están enfocadas tanto en análisis
+globales como locales, realizando segmentaciones totales de los
+articuladores y utilizando representaciones de puntos de interés para capturar
+información local. Por otro lado, un problema de interés con complejidad adicional es el
+reconocimiento continuo de gestos o expresiones cortas. Su dificultad radica en
+relacionar los gestos que componen cada expresión, los cuales tienen coherencia
+temporal y gramatical. Nuevos enfoques que trabajan este desafío se basan en
+métodos estadísticos que modelan cada seña.
+La presente propuesta busca desarrollar una estrategia computacional para el
+reconocimiento continuo de señas registradas en vídeos, teniendo en cuenta tanto la
+variabilidad local de cada gesto como la variación a lo largo de su descripción
+gramatical. El proceso se inicia capturando secuencias de videos que registran
+diferentes sentencias gramaticales en el lenguaje. Estas secuencias serán analizadas
+para determinar las características espacio-temporales que permitan una apropiada
+representación de los gestos durante el video. Una vez los gestos son caracterizados
+localmente, se desarrollarán métodos que permitan capturar la coherencia temporal de
+los gestos para reconocer frases cortas. El modelo de caracterización continuo será
+mapeado a un algoritmo de aprendizaje de máquina, previamente entrenado, para
+obtener una clasificación automática de las señas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
