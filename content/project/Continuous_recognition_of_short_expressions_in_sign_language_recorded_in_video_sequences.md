@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["slr"]`
-tags = ["Sign Language Recognition"]
+tags = ["Continuos Sign Language Recognition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# caption = "My caption :smile:"
 
 +++
 La comunidad de sordomudos y personas con alguna limitación auditiva se estima en
@@ -63,5 +63,7 @@ representación de los gestos durante el video. Una vez los gestos son caracteri
 localmente, se desarrollarán métodos que permitan capturar la coherencia temporal de
 los gestos para reconocer frases cortas. El modelo de caracterización continuo será
 mapeado a un algoritmo de aprendizaje de máquina, previamente entrenado, para
-obtener una clasificación automática de las señas.
+obtener una clasificación automática de las señas. //
+
+Entidad asociada: **Universidad Industrial de Santander**
 
