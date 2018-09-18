@@ -267,15 +267,15 @@ enableGitInfo = false
   url = "#publications"
   weight = 3
   
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 4
   
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
@@ -285,7 +285,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
