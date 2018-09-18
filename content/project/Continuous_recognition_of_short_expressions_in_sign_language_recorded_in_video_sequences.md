@@ -9,7 +9,7 @@ title = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas 
 summary = "Affiliated Entity:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp) - _Current stage_: **Selección de videos que registran gestos continuos**"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "Deaf-people-3-700x325.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["slr"]`
