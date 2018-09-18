@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas registrado en secuencias de vídeo."
 
 # Project summary to display on homepage.
-summary = "Affiliated Entity:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp)Current stage: **Selección de videos que registran gestos continuos**"
+summary = "Affiliated Entity:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp) - *Current stage: **Selección de videos que registran gestos continuos***"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
