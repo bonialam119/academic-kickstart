@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+
 
 +++
 La comunidad de sordomudos y personas con alguna limitación auditiva se estima en
