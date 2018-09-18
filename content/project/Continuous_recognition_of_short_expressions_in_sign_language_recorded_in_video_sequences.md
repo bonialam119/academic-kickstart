@@ -6,7 +6,8 @@ date = 2016-04-27T00:00:00
 title = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas registrado en secuencias de vídeo."
 
 # Project summary to display on homepage.
-summary = "Entidad Asociada:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp)"
+summary = "Affiliated Entity:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp)  
+Current stage: **Selección de videos que registran gestos continuos**"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
@@ -27,6 +28,7 @@ image = "headers/bubbles-wide.jpg"
 
 
 +++
+**Summary:**  
 La comunidad de sordomudos y personas con alguna limitación auditiva se estima en
 360 millones de personas a nivel mundial, según el reporte oficial de la organización
 mundial de la salud (OMS). En Colombia, para el 2016 se reportó una comunidad de
@@ -63,8 +65,16 @@ representación de los gestos durante el video. Una vez los gestos son caracteri
 localmente, se desarrollarán métodos que permitan capturar la coherencia temporal de
 los gestos para reconocer frases cortas. El modelo de caracterización continuo será
 mapeado a un algoritmo de aprendizaje de máquina, previamente entrenado, para
-obtener una clasificación automática de las señas. //
+obtener una clasificación automática de las señas.  
+  
+**Objetive:**  
+Proponer un método computacional para el reconocimiento continuo de gestos
+en el lenguaje de señas registrado en video.
+  
+Affiliated Entity: 
+[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp)  
+Status: **Active**  
+Initial date: September 2018  
+Final date: December 2019  
+Current stage: **Selección de videos que registran gestos continuos**
 
-
-Entidad Asociada: 
-[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp) 
