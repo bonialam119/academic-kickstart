@@ -229,9 +229,9 @@ enableGitInfo = false
     link = "mailto:jefferson.rodriguez2@saber.uis.edu.co"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "orcid"
     icon_pack = "fa"
-    link = "//twitter.com/djotarodriguez"
+    link = "//orcid.org/0000-0003-2394-5683"
 
   [[params.social]]
     icon = "google-scholar"
@@ -277,15 +277,15 @@ enableGitInfo = false
   url = "#projects"
   weight = 5
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 6
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
