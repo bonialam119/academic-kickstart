@@ -33,7 +33,7 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Sign Language Recognition"
+#   name = "Continuos Sign Language Recognition"
 #   tag = ".slr"
 #
 # [[filter]]
