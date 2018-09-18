@@ -13,7 +13,7 @@ image_preview = "Deaf-people-3-700x325.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["slr","Act"]`
-tags = ["Continuos Sign Language Recognition"]
+tags = ["cslr","Act"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+# image = "headers/bubbles-wide.jpg"
 
 
 +++
