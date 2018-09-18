@@ -230,7 +230,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "researchgate"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "//orcid.org/0000-0003-2394-5683"
 
   [[params.social]]
