@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Continuos Sign Language Recognition"
-  tag = ".slr"
+  name = "Continuos SLR"
+  tag = ".cslr"
 
 [[filter]]
    name = "Active"
