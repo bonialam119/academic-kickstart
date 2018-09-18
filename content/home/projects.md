@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Continuous recognition of short expressions in sign language recorded in video sequences"
-subtitle = ""
+subtitle = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas registrado en secuencias de vídeo."
 
 # Order that this section will appear in.
 weight = 40
