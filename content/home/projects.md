@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Continuous recognition of short expressions in sign language recorded in video sequences"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -33,8 +33,8 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
+#   name = "Sign Language Recognition"
+#   tag = ".slr"
 #
 # [[filter]]
 #   name = "Other"
