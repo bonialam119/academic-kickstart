@@ -38,10 +38,10 @@ filter_default = 0
 
 [[filter]]
    name = "Active"
-   tag = ".act"
+   tag = ".Act"
 
 [[filter]]
    name = "Finished"
-   tag = ".end"
+   tag = ".End"
 +++
 
