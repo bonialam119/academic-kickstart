@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Reconocimiento continuo de expresiones cortas en el lenguaje de señas registrado en secuencias de vídeo."
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Entidad Asociada:[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
@@ -65,5 +65,6 @@ los gestos para reconocer frases cortas. El modelo de caracterización continuo 
 mapeado a un algoritmo de aprendizaje de máquina, previamente entrenado, para
 obtener una clasificación automática de las señas. //
 
-Entidad asociada: **Universidad Industrial de Santander**
 
+Entidad Asociada: 
+[**Universidad Industrial de Santander**](https://www.uis.edu.co/webUIS/es/index.jsp) 
