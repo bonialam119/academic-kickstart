@@ -2,7 +2,7 @@
 title = "Towards on-line sign language recognition using cumulative SD-VLAD descriptors"
 
 # Date first published.
-date = "2018-06-13"
+date = "2018-08-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jefferson Rodríguez", "Fabio Martínez"]
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://link.springer.com/chapter/10.1007%2F978-3-319-98998-3_29"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
