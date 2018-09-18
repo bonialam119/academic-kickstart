@@ -229,7 +229,7 @@ enableGitInfo = false
     link = "mailto:jefferson.rodriguez2@saber.uis.edu.co"
 
   [[params.social]]
-    icon = "researchgate"
+    icon = "orcid"
     icon_pack = "ai"
     link = "//orcid.org/0000-0003-2394-5683"
 
