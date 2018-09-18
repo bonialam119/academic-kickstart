@@ -12,7 +12,7 @@ summary = "Affiliated Entity:[**Universidad Industrial de Santander**](https://w
 image_preview = "Deaf-people-3-700x325.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["slr","Act","All"]`
+# Example: `tags = ["slr","Act"]`
 tags = ["Continuos Sign Language Recognition"]
 
 # Optional external URL for project (replaces project detail page).
