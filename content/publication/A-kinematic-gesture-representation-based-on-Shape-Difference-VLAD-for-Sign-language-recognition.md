@@ -2,7 +2,7 @@
 title = "A kinematic gesture representation based on Shape Difference VLAD for Sign language recognition"
 
 # Date first published.
-date = "2018-05-03"
+date = "2018-09-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jefferson Rodríguez", "Fabio Martínez"]
