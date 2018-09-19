@@ -15,5 +15,5 @@ autolink = true
 
 
 +++
-**Personal mail:**"mailto:contact.me@jeffersonrodriguez.co"    
-**Institutional mail:**"mailto:jefferson.rodriguez2@saber.uis.edu.co"  
+**Personal mail:** contact.me@jeffersonrodriguez.co  
+**Institutional mail:** jefferson.rodriguez2@saber.uis.edu.co    
