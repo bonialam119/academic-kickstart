@@ -14,5 +14,13 @@ weight = 70
 autolink = true
 
 +++
-**Personal mail:** contact.me@jeffersonrodriguez.co  
-**Institutional mail:** jefferson.rodriguez2@saber.uis.edu.co
+**Personal mail:**     
+[[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:contact.me@jeffersonrodriguez.co"  
+**Institutional mail:** 
+[[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:jefferson.rodriguez2@saber.uis.edu.co"
