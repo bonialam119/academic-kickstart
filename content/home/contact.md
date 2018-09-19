@@ -13,7 +13,6 @@ weight = 70
 # Automatically link email and phone?
 autolink = true
 
-+++
 **Personal mail:**     
 [[params.social]]
     icon = "envelope"
@@ -24,3 +23,5 @@ autolink = true
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:jefferson.rodriguez2@saber.uis.edu.co"
++++
+
