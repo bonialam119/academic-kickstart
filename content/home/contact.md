@@ -14,5 +14,5 @@ weight = 70
 autolink = true
 
 +++
-**Personal mail:** contact.me@jeffersonrodriguez.co
+**Personal mail:** contact.me@jeffersonrodriguez.co  
 **Institutional mail:** jefferson.rodriguez2@saber.uis.edu.co
