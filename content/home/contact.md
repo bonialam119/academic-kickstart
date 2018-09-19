@@ -14,4 +14,4 @@ weight = 70
 autolink = true
 
 +++
-
+**Personal mail:** contact.me@jeffersonrodriguez.co 
