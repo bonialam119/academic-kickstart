@@ -241,7 +241,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = ""
+    link = "https://scholar.google.com/citations?hl=en&user=pGFRXlcAAAAJ"
 
   [[params.social]]
     icon = "github"
