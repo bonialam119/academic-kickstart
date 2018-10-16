@@ -9,11 +9,11 @@ title = "Propuesta metodológica basada en Redes Neuronales Artificiales para la
 summary = "Affiliated Entity:[**Universidad Santo Tomás - Bogotá**](http://www.usta.edu.co/) - _Current stage_: **Presentación de resultados**"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Deaf-people-3-700x325.jpg"
+image_preview = "waste1.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["data","fin"]`
-tags = ["cslr","Act"]
+# Example: `tags = ["data","End"]`
+tags = ["data","End"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/JotaRodriguez94/Waste_prediction_in_Bogota"
@@ -44,7 +44,7 @@ neuronales para la predicción de la generación de residuos sólidos en las loc
   
 Affiliated Entity: 
 [**Universidad Santo Tomás - ING Ambiental Bogotá**](http://www.usta.edu.co/)  
-Status: **Active**  
+Status: **Ended**  
 Initial date: September 2018  
 Final date: November 2018  
 Current stage: **Presentación de resultados**
