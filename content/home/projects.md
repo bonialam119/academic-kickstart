@@ -35,6 +35,10 @@ filter_default = 0
 [[filter]]
   name = "Continuos SLR"
   tag = ".cslr"
+  
+[[filter]]
+  name = "Data analysis"
+  tag = ".data"
 
 [[filter]]
    name = "Active"
