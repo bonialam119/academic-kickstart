@@ -16,7 +16,7 @@ image_preview = "waste3.png"
 tags = ["data","End"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/JotaRodriguez94/Waste_prediction_in_Bogota"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -47,4 +47,5 @@ Affiliated Entity:
 Status: **Ended**  
 Initial date: September 2018  
 Final date: November 2018  
-Current stage: **Presentación de resultados**
+Current stage: **Presentación de resultados**  
+[More information](https://github.com/JotaRodriguez94/Waste_prediction_in_Bogota)
