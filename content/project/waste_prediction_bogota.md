@@ -44,7 +44,7 @@ neuronales para la predicción de la generación de residuos sólidos en las loc
   
 Affiliated Entity: 
 [**Universidad Santo Tomás - ING Ambiental Bogotá**](http://www.usta.edu.co/)  
-Status: **Ended**  
+Status: **Finished**  
 Initial date: September 2018  
 Final date: November 2018  
 Current stage: **Presentación de resultados**  
