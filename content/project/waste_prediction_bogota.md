@@ -9,7 +9,7 @@ title = "Propuesta metodológica basada en Redes Neuronales Artificiales para la
 summary = "Affiliated Entity:[**Universidad Santo Tomás - Bogotá**](http://www.usta.edu.co/) - _Current stage_: **Presentación de resultados**"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "waste1.jpg"
+image_preview = "waste3.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["data","End"]`
