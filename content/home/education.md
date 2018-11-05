@@ -31,4 +31,6 @@ weight = 3
 [Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)  
 3. **Neural Networks and Deep Learning** by *deeplearning.ai*.
 [Certification](https://www.coursera.org/account/accomplishments/verify/CFEQR4264ASY)  
+4. **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** by *deeplearning.ai*.
+[Certification](https://www.coursera.org/account/accomplishments/verify/ZXZK7HSEJF8B)  
 
