@@ -13,7 +13,7 @@ subtitle = "Complementary education"
 # Order that this section will appear in.
 weight = 3
 +++
-## Online Courses 
+## On-line education 
 {{% alert note %}}
 **Computer vision and Image processing**
 {{% /alert %}}
