@@ -17,15 +17,11 @@ weight = 3
 {{% alert note %}}
 **Computer vision and Image processing**
 {{% /alert %}}
-1. **Object detection** by *Universitat Autònoma de Barcelona* on Coursera.
-[Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)  
+1. **Object detection** by *Universitat Autònoma de Barcelona* on Coursera. [Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)    
 2. **Image classification: how to recognize the content of an image?** by *Universitat Autònoma de Barcelona* 
-on Coursera.  
-[Certification](https://www.coursera.org/account/accomplishments/verify/RPHWSV2BYGAZ) 
-3. **Introduction to computer vision: application development with OpenCV** by *Universidad Carlos III de Madrid* on edX.  
-[Certification](https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)  
-4. **Sparse Representations in Image Processing: From Theory to Practice** by *Israel Institute of Technology* on edX.
-[Certification](https://courses.edx.org/certificates/2be0b82719ff40ec945831c00f7aec59)  
+on Coursera. [Certification](https://www.coursera.org/account/accomplishments/verify/RPHWSV2BYGAZ)   
+3. **Introduction to computer vision: application development with OpenCV** by *Universidad Carlos III de Madrid* on edX. [Certification](https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)      
+4. **Sparse Representations in Image Processing: From Theory to Practice** by *Israel Institute of Technology* on edX. [Certification](https://courses.edx.org/certificates/2be0b82719ff40ec945831c00f7aec59)    
  --- 
 {{% alert note %}}
 **Machine Learning and Deep Learning**
