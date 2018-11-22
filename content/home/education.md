@@ -13,24 +13,25 @@ subtitle = "Complementary education"
 # Order that this section will appear in.
 weight = 3
 +++
-## Online Courses
+## Online Courses 
 {{% alert note %}}
-**edx, Inc. (MOOC platform)**
+**Computer vision and Image processing**
 {{% /alert %}}
-1. **Introduction to computer vision: application development with OpenCV** by *Universidad Carlos III de Madrid*.
+1. **Object detection** by *Universitat Autònoma de Barcelona* on Coursera.
+[Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)  
+2. **Image classification: how to recognize the content of an image?** by *Universitat Autònoma de Barcelona* 
+on Coursera.  
+[Certification](https://www.coursera.org/account/accomplishments/verify/RPHWSV2BYGAZ) 
+3. **Introduction to computer vision: application development with OpenCV** by *Universidad Carlos III de Madrid* on edX.  
 [Certification](https://courses.edx.org/certificates/8b7281ca884c4164b95ceae1fcfdae59)  
-2. **Sparse Representations in Image Processing: From Theory to Practice** by *Israel Institute of Technology*.
+4. **Sparse Representations in Image Processing: From Theory to Practice** by *Israel Institute of Technology* on edX.
 [Certification](https://courses.edx.org/certificates/2be0b82719ff40ec945831c00f7aec59)  
  --- 
 {{% alert note %}}
-**Coursera, Inc. (MOOC platform)**
+**Machine Learning and Deep Learning**
 {{% /alert %}}
-1. **Image classification: how to recognize the content of an image?** by *Universitat Autònoma de Barcelona*.
-[Certification](https://www.coursera.org/account/accomplishments/verify/RPHWSV2BYGAZ)  
-2. **Object detection** by *Universitat Autònoma de Barcelona*.
-[Certification](https://www.coursera.org/account/accomplishments/verify/VVKNLTZR6CPW)  
-3. **Neural Networks and Deep Learning** by *deeplearning.ai*.
+1. **Neural Networks and Deep Learning** by *deeplearning.ai* on Coursera.
 [Certification](https://www.coursera.org/account/accomplishments/verify/CFEQR4264ASY)  
-4. **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** by *deeplearning.ai*.
+2. **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** by *deeplearning.ai* on Coursera.
 [Certification](https://www.coursera.org/account/accomplishments/verify/ZXZK7HSEJF8B)  
 
