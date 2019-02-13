@@ -31,7 +31,7 @@ on Coursera. [Certification](https://www.coursera.org/account/accomplishments/ve
 2. **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** by *deeplearning.ai* on Coursera.
 [Certification](https://www.coursera.org/account/accomplishments/verify/ZXZK7HSEJF8B)  
 3. **Convolutional Neural Networks** by *deeplearning.ai* on Coursera.
-[Certification](https://www.coursera.org/account/accomplishments/verify/A44TRJCH49NP)
+[Certification](https://www.coursera.org/account/accomplishments/verify/A44TRJCH49NP)  
 4. **Sequence Models** by *deeplearning.ai* on Coursera.
 [Certification](https://www.coursera.org/account/accomplishments/verify/HHCTQL2E3KRW)
 
