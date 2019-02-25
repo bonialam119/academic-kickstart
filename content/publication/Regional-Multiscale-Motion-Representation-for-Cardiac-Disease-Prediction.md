@@ -2,7 +2,7 @@
 title = "Regional Multiscale Motion Representation for Cardiac Disease Prediction"
 
 # Date first published.
-date = "2018-08-19"
+date = "2019-02-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alejandra Moreno", "Jefferson Rodríguez", "Fabio Martínez"]
