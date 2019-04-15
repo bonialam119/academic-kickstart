@@ -14,6 +14,7 @@ weight = 1
     "Machine Learning",
     "Gesture Recognition", 
     "Image and video processing"
+    "Deep Learning"
 ]
 # List your qualifications (such as academic degrees).
 [[education.courses]]
