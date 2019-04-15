@@ -33,7 +33,7 @@ on Coursera. [Certification](https://www.coursera.org/account/accomplishments/ve
 3. **Convolutional Neural Networks** by *deeplearning.ai* on Coursera.
 [Certification](https://www.coursera.org/account/accomplishments/verify/A44TRJCH49NP)  
 4. **Sequence Models** by *deeplearning.ai* on Coursera.
-[Certification](https://www.coursera.org/account/accomplishments/verify/HHCTQL2E3KRW)
+[Certification](https://www.coursera.org/account/accomplishments/verify/HHCTQL2E3KRW)  
 5. **Structuring Machine Learning Projects** by *deeplearning.ai* on Coursera.  
 [Certification](https://www.coursera.org/account/accomplishments/verify/XCDSYDLXV8ZQ)  
 
