@@ -20,6 +20,10 @@ weight = 2
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018  
+[[education.courses]]
+  course = "Systems Engineer and Computer Science"
+  institution = "Universidad Industrial de Santander"
+  year = 2018  
 +++
 # About me
 I'm from Bucaramanga in Colombia. Passionate about computer vision, technology, travel, football and cycling. 
