@@ -20,9 +20,6 @@ weight = 2
   course = "Systems Engineer and Computer Science"
   institution = "Universidad Industrial de Santander"
   year = 2018  
-  course = "Deep Learning Specialization"
-  institution = "deeplearning.ai"
-  year = 2019
 +++
 # About me
 I'm from Bucaramanga in Colombia. Passionate about computer vision, technology, travel, football and cycling. 
