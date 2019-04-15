@@ -22,7 +22,7 @@ weight = 1
   year = 2018  
 [[education.courses]]
   course = "Deep Learning Specialization"
-  institution = "[deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/Y2UEGQ57YLSP)"
+  institution = "deeplearning.ai"
   year = 2019    
 +++
 # About me
