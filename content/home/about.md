@@ -13,7 +13,7 @@ weight = 1
     "Artificial Intelligence",
     "Machine Learning",
     "Gesture Recognition", 
-    "Image and video processing"
+    "Image and video processing",
     "Deep Learning"
 ]
 # List your qualifications (such as academic degrees).
