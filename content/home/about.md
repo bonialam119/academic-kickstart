@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 2
+weight = 1
 
 # List your academic interests.
 [interests]
@@ -22,9 +22,9 @@ weight = 2
   year = 2018  
 [[education.courses]]
   course = "Deep Learning Specialization"
-  institution = "deeplearning.ai"
+  institution = "[deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/Y2UEGQ57YLSP)"
   year = 2019    
 +++
 # About me
 I'm from Bucaramanga in Colombia. Passionate about computer vision, technology, travel, football and cycling. 
-Currently, I'm a Master's student in Computer Science and I work at Biomedical imaging, Vision and Learning Laboratoy (BivLab).
+Currently, I'm a Master's student in Computer Science and I work at Biomedical imaging, Vision and Learning Laboratoy (Biv2Lab).
