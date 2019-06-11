@@ -27,4 +27,4 @@ weight = 1
   year = 2019    
 +++
 # About me
-I'm from Bucaramanga in Colombia. Passionate about artificial vision, technology, travel, football and cycling. Currently, I am a student of a Master in Computer Science and I work in Biomedical imaging, Vision and Learning Laboratory (BivL2ab) building models, based on deep learning, for the learning and recognition of gestures in video.
+I'm from Bucaramanga in Colombia. Passionate about artificial vision, technology, travel, football and cycling. Currently, I am a student of a Master in Computer Science and I work in Biomedical imaging, Vision and Learning Laboratory (BivL2ab) building models, based on deep learning, for the learning and recognition of gestures and patterns in video.
