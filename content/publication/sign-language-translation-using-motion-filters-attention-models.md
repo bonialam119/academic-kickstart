@@ -47,7 +47,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "blob:null/b9ae82d1-6c19-4a30-b44a-3f2b4e48e1ba"
+url_poster = "https://github.com/JotaRodriguez94/academic-kickstart/blob/master/pdf/POSTER_KHIPU_v3.pdf"
 url_source = ""
 
 # Custom links (optional).
