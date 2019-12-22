@@ -20,7 +20,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Latin American Meeting In Artificial Intelligence, Uruguay.*"
-publication_short = "In *KHIPU*, **Poster Presented** "
+publication_short = "In *[KHIPU](https://khipu.ai/)*, **Poster Presented** "
 
 # Abstract and optional shortened version.
 abstract = "More than 70 million people use at least one Sign Language (SL) as their main channel of communication. Translating a video sign language into a spoken language is a complex task as the structure and grammar of each language must be processed at the same time"
